@@ -1,0 +1,31 @@
+﻿[
+  {
+    "id": "1",
+    "name": "John Smith",
+    "company": "Adventureworks",
+    "locations": [
+      {
+        "id": "1",
+        "description": "Adventureworks Headquarters"
+      },
+      {
+        "id": "2",
+        "description": "Home Office"
+      }
+    ]
+  }, 
+  {
+    "id": "2",
+    "name": "Jen Campbell",
+    "company": "Northwind",
+    "locations": [
+      {
+        "id": "3",
+        "description": "Northwind Headquarter"
+      },
+      {
+        "id": "4",
+        "description": "Home Office"
+      }
+    ]
+}]
