@@ -7,7 +7,7 @@ author: liamca
 # Azure Search Complex Types
 Demonstration on how to integrate complex data types with parent child relationships into Azure Search. 
 
-This is a Visual Studio application that loads a JSON object into an Azure Search index and then performs various search queries.  This is the JSON document that we will be working with:
+This is a Visual Studio application that loads a JSON object into an Azure Search index and then performs various search queries.  This is the JSON document that we will be working with which contains a set of contacts that include their various work locations:
 
 ![JSON Screen Shot](https://raw.githubusercontent.com/liamca/AzureSearchComplexTypes/master/json.png)
 
