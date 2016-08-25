@@ -21,3 +21,5 @@ After parsing this document, we will be able to answer questions through Azure S
 
 Here is the output from this application:
 ![Demo Screen Shot](https://raw.githubusercontent.com/liamca/AzureSearchComplexTypes/master/demo.png)
+
+You can learn more about Azure Search [here](https://azure.microsoft.com/en-us/services/search/).  To register for a free Azure account, please see this [page](https://azure.microsoft.com/free/).  If you have any questions, please contact me on Twitter @liamca.
